@@ -1,0 +1,28 @@
+{
+  "fruit": [
+    {
+      "Banaan": [
+        {
+          "color": "Bruin",
+          "productState": "overrijp"
+        },
+        {
+          "color": "Geel",
+          "productState": "rijp"
+        }
+      ]
+    },
+    {
+      "Appel": [
+        {
+          "color": "Bruin",
+          "productState": "rot"
+        },
+        {
+          "color": "Geel",
+          "productState": "rijp"
+        }
+      ]
+    }
+  ]
+}
